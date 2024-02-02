@@ -5,8 +5,8 @@ Es una app que permite la búsqueda de distintos productos actualmente a la vent
   · Contiene una imagen con el logo de la empresa y un Textfield que permite el ingreso de inputs en formato string.
 
   · Casos de errores: 
-   No permite inputs vacios, en tal caso el usuario recibiría un mensaje de error que le indicaría ingresar un texto váldio. 
-   En caso de que ocurra un error en la búsqueda, ya sea errores al pegarle a la API, al recibir la respuesta, o decodificarla. El usuario podrá observar un mensaje de error que le indicará que intente más tarde. 
+   No permite inputs vacios, en tal caso el usuario recibiría un mensaje de error que le indicaría ingresar un texto válido. 
+   En caso de que ocurra un error en la búsqueda, ya sea errores al conectarse con la API, al recibir la respuesta, o decodificarla. El usuario podrá observar un mensaje de error que le indicará que intente más tarde. 
    
 # Pantalla de Resultados de Búsqueda:
   · Contiene un Textfield para realizar una nueva búsqueda desde esa pantalla, sin necesidad de volver a la pantalla principal, y se visualizan los resultados de la búsuqeda realizada en la primera pantalla en una TableView, 
