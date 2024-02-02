@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "5CBC450C-AE1A-44BB-8D36-1F13CF531F8C"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "34933ADF-AB1E-4A43-A421-E4EE37D0A027"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ShopApp/ProductList/View/ProductListViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9E9471C1-A2AC-4D0F-A811-30AB2A889955"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ShopApp/SearchResult/Presenter/SearchResultPresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "reloadTableView(with:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9E9471C1-A2AC-4D0F-A811-30AB2A889955 - 9a23228af487a8bf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in ShopApp.SearchResultPresenter.reloadTableView(with: Swift.Array&lt;ShopApp.ProductModel&gt;) -&gt; ()"
+                  moduleName = "ShopApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/agostinacorcueradisalvo/Desktop/Agos/Projects/ShopApp/ShopApp/SearchResult/Presenter/SearchResultPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "80">
+               </Location>
+               <Location
+                  uuid = "9E9471C1-A2AC-4D0F-A811-30AB2A889955 - 9a23228af487a8d0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in ShopApp.SearchResultPresenter.reloadTableView(with: Swift.Array&lt;ShopApp.ProductModel&gt;) -&gt; ()"
+                  moduleName = "ShopApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/agostinacorcueradisalvo/Desktop/Agos/Projects/ShopApp/ShopApp/SearchResult/Presenter/SearchResultPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "80">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "08C42141-1869-4DBA-91CA-79F422371A0B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ShopApp/SearchResult/Presenter/SearchResultPresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "searchButtonTapped(with:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "08C42141-1869-4DBA-91CA-79F422371A0B - 1b6939d6bb83f96c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Array&lt;ShopApp.ProductModel&gt;&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in ShopApp.SearchResultPresenter.searchButtonTapped(with: Swift.String) -&gt; ()"
+                  moduleName = "ShopApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/agostinacorcueradisalvo/Desktop/Agos/Projects/ShopApp/ShopApp/SearchResult/Presenter/SearchResultPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "308">
+               </Location>
+               <Location
+                  uuid = "08C42141-1869-4DBA-91CA-79F422371A0B - 1b6939d6bb83f96c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Array&lt;ShopApp.ProductModel&gt;&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in ShopApp.SearchResultPresenter.searchButtonTapped(with: Swift.String) -&gt; ()"
+                  moduleName = "ShopApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/agostinacorcueradisalvo/Desktop/Agos/Projects/ShopApp/ShopApp/SearchResult/Presenter/SearchResultPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "260">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "08D2D511-AA00-474D-86D9-FA30B9F14D71"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ShopApp/SearchResult/Presenter/SearchResultPresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "searchButtonTapped(with:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "08D2D511-AA00-474D-86D9-FA30B9F14D71 - 1b6939d6bb83f98f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Array&lt;ShopApp.ProductModel&gt;&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in ShopApp.SearchResultPresenter.searchButtonTapped(with: Swift.String) -&gt; ()"
+                  moduleName = "ShopApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/agostinacorcueradisalvo/Desktop/Agos/Projects/ShopApp/ShopApp/SearchResult/Presenter/SearchResultPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "204">
+               </Location>
+               <Location
+                  uuid = "08D2D511-AA00-474D-86D9-FA30B9F14D71 - 1b6939d6bb83f9f0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Array&lt;ShopApp.ProductModel&gt;&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in ShopApp.SearchResultPresenter.searchButtonTapped(with: Swift.String) -&gt; ()"
+                  moduleName = "ShopApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/agostinacorcueradisalvo/Desktop/Agos/Projects/ShopApp/ShopApp/SearchResult/Presenter/SearchResultPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "176">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E52FDD4B-C4CA-4F38-97AB-25FDF1F55FE2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ShopApp/SearchResult/Presenter/SearchResultPresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "searchButtonTapped(with:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

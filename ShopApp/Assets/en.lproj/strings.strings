@@ -1,0 +1,11 @@
+//GENERAL
+"HOME_TITLE" = "Shopw App";
+"SEARCH_RESULTS_TITLE" =  "Busqueda";
+
+"ALERT_ERROR_TITLE" = "¡Ups!";
+"ALERT_ERROR_DESCRIPTION" = "Ocurrió un error. Intenta nuevamente más tarde.";
+
+"ALERT_INFO_TITLE" = "";
+"ALERT_INFO_DESCRIPTION" = "";
+
+"SEARCH_TEXTFIELD_PLACEHOLDER" = "Buscar";
