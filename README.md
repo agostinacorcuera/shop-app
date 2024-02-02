@@ -1,4 +1,4 @@
-# Shopp-App
+# Shop-App
 Es una app que permite la búsqueda de distintos productos actualmente a la venta. Consta de tres pantallas: 
 
 # Pantalla de Búsqueda:
